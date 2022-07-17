@@ -103,6 +103,7 @@ body {
   /* color: var(--primary--color) !important; */
   font-size: 3.2rem;
   margin-bottom: 1.8rem;
+  font-weight: 500;
   line-height: 1.2;
 }
 /* text alignment */
